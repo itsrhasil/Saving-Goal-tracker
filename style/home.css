@@ -2,7 +2,6 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #a5e8c4;
     color: white;
     background-color: #004d4d; 
 }
@@ -29,6 +28,14 @@ body {
 .navbar li {
     display: inline-block;
     margin-right: 20px;
+}
+.advert {
+    text-align: center;
+}
+.advert img {
+    width: 900px;
+    height: auto;
+    margin: 0;
 }
 #createGoalBtn {
     height: 75px;
